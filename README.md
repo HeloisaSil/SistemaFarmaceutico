@@ -1,2 +1,2 @@
-# SistemaFarmaceutico
-Sistema desenvolvido para uma farmácia fictícia. 
+# Banco de Dados 
+Base de dados para controlar uma farmácia.
